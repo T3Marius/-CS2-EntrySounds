@@ -1,0 +1,8 @@
+{
+  "Tag": "[{green}eSounds{default}] ",
+  "EntrySounds": {
+    "76561199478674655": "custom_sound.vsnd_c" //you can list the name of the player here so you can store it easier.
+  },
+  "EntryMessage": "{blue}{playername}{orange} joined the server!",
+  "ConfigVersion": 1
+}
